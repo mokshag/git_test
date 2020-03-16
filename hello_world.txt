@@ -1,0 +1,7 @@
+This is the file hello world in the repository git_test.
+This is purely routine and I would go as far as to call it a cliche.
+But it will help in tracking the changes I make in this repository 
+and will help me to understand git thoroughly.
+Git is immensely useful and is used my software developers all over the world 
+to track changes and collaborate with people all over the world to increase 
+productivity and sustainability
